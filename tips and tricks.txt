@@ -1,0 +1,4 @@
+Press P to skip to the next level.
+Delete local/game_state if you bound the wrong controls and are not having a good time.
+Use bombs sparingly.
+The game is fairly computationally expensive, so there may be five-second pauses when the game is rendering more tiles; if this happens, don't quit the game.
