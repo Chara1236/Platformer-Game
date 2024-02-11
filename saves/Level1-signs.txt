@@ -1,0 +1,20 @@
+500 150 Welcome, Kenney, to my platformer
+1500 150 Don't touch that pink dude
+1500 200 it looks like it could hurt you
+2350 300 You can guess what this
+2350 350 orange substance does
+4250 300 Psssst.. use a bomb to jump out of the hole
+5000 500 Avoid da fiiiiiiirrrrrrreeeeeebbbaaaalllsss
+5700 100 Oh yeah, bombs can
+5700 150 kill slimes
+3320 200 They float!
+/
+3430 500 Click left to throw a sticky bomb     You have a limited amount of bombs per level!
+2950 550 you can blow up boxes
+500 200 Press WASD to move and R to restart
+500 250 S makes you fall down faster
+500 300 P skips the level
+4250 100 You can pick up and place steel down using right click
+4250 150 Hold right click to see your pick-up and place-down range
+4250 200 You can't jump or throw bombs while holding steel
+4250 250 You can't place steel blocks while in the air

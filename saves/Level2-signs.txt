@@ -1,0 +1,5 @@
+1300 50 Jump to the top
+1900 250 Trust me, the steel
+1900 300 block is quite useful here
+3450 500 Steel block?
+4500 100 You need your bomb here...
